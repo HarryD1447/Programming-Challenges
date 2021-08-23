@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\ref\Binary Search.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\bin\Debug\net5.0\Binary Search.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\ref\Binary Search.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Binary Search\obj\Debug\net5.0\Binary Search.genruntimeconfig.cache

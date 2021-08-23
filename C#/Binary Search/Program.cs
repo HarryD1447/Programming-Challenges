@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Binary_Sort
+namespace Binary_Search
 {
     class Program
     {
@@ -83,3 +83,4 @@ namespace Binary_Sort
         }
     }
 }
+

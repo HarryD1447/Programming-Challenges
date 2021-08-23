@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Sort\\Binary Sort.csproj": {}
+    "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Search\\Binary Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Sort\\Binary Sort.csproj": {
+    "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Search\\Binary Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Sort\\Binary Sort.csproj",
-        "projectName": "Binary Sort",
-        "projectPath": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Sort\\Binary Sort.csproj",
+        "projectUniqueName": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Search\\Binary Search.csproj",
+        "projectName": "Binary Search",
+        "projectPath": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Search\\Binary Search.csproj",
         "packagesPath": "C:\\Users\\eddre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Sort\\obj\\",
+        "outputPath": "C:\\Users\\eddre\\Desktop\\Programming-Challenges\\C#\\Binary Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
