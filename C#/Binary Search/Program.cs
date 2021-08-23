@@ -28,7 +28,7 @@ namespace Binary_Search
             while (!found)
             {
                 int guess = Lerp(bottom, top);
-                Result response = GetUserResponse();
+                Result response = GetUserResponse(guess);
 
                 if (response == Result.Lower)
                 {
@@ -55,13 +55,13 @@ namespace Binary_Search
             return bottom + half;
         }
 
-        static Result GetUserResponse()
+        static Result GetUserResponse(int guessValue)
         {
             Result r = Result.Equal;
             bool ans = false;
             while (!ans)
             {
-                Console.WriteLine("Enter H,L or E");
+                Console.WriteLine("My guess is: {0}. Enter H,L or E", guessValue);
                 string value = Console.ReadLine();
                 switch(value)
                 {
