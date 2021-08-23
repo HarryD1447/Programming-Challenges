@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.exe
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.deps.json
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.runtimeconfig.json
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.dll
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\ref\Git-Test.dll
+C:\Users\eddre\Desktop\Git-Test\bin\Debug\net5.0\Git-Test.pdb
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.dll
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\ref\Git-Test.dll
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.pdb
+C:\Users\eddre\Desktop\Git-Test\obj\Debug\net5.0\Git-Test.genruntimeconfig.cache
