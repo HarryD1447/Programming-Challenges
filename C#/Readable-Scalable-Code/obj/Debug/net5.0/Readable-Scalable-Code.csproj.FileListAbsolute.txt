@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\ref\Readable-Scalable-Code.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\bin\Debug\net5.0\Readable-Scalable-Code.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\ref\Readable-Scalable-Code.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Readable-Scalable-Code\obj\Debug\net5.0\Readable-Scalable-Code.genruntimeconfig.cache

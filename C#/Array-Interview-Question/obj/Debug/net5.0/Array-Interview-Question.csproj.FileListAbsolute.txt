@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\ref\Array-Interview-Question.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\bin\Debug\net5.0\Array-Interview-Question.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\ref\Array-Interview-Question.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Array-Interview-Question\obj\Debug\net5.0\Array-Interview-Question.genruntimeconfig.cache

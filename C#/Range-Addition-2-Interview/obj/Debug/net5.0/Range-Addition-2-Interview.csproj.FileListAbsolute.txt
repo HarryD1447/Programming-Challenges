@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\ref\Range-Addition-2-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\bin\Debug\net5.0\Range-Addition-2-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\ref\Range-Addition-2-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Range-Addition-2-Interview\obj\Debug\net5.0\Range-Addition-2-Interview.genruntimeconfig.cache
