@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\ref\Remove-Element-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\bin\Debug\net5.0\Remove-Element-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\ref\Remove-Element-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Element-Interview\obj\Debug\net5.0\Remove-Element-Interview.genruntimeconfig.cache
