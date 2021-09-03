@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\ref\Remove-Duplicates-Sorted-Array.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\bin\Debug\net5.0\Remove-Duplicates-Sorted-Array.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\ref\Remove-Duplicates-Sorted-Array.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Remove-Duplicates-Sorted-Array\obj\Debug\net5.0\Remove-Duplicates-Sorted-Array.genruntimeconfig.cache
