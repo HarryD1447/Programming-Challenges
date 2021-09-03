@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\ref\Reverse-Integer.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\bin\Debug\net5.0\Reverse-Integer.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\ref\Reverse-Integer.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Reverse-Integer\obj\Debug\net5.0\Reverse-Integer.genruntimeconfig.cache
