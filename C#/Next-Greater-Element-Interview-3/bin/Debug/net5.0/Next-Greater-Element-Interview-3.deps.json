@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Next-Greater-Element-Interview-3/1.0.0": {
+        "runtime": {
+          "Next-Greater-Element-Interview-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Next-Greater-Element-Interview-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

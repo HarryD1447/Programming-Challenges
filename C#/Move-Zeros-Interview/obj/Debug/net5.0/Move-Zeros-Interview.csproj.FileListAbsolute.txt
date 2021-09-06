@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\ref\Move-Zeros-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\bin\Debug\net5.0\Move-Zeros-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\ref\Move-Zeros-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Move-Zeros-Interview\obj\Debug\net5.0\Move-Zeros-Interview.genruntimeconfig.cache
