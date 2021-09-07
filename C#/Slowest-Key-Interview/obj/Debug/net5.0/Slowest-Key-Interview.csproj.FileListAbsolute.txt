@@ -1,0 +1,16 @@
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.exe
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.deps.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.runtimeconfig.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\ref\Slowest-Key-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\bin\Debug\net5.0\Slowest-Key-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.AssemblyInfo.cs
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\ref\Slowest-Key-Interview.dll
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.pdb
+C:\Users\eddre\Desktop\Programming-Challenges\C#\Slowest-Key-Interview\obj\Debug\net5.0\Slowest-Key-Interview.genruntimeconfig.cache
