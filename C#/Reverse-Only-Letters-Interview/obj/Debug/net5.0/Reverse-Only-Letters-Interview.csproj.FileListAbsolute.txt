@@ -1,0 +1,16 @@
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.exe
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.deps.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.runtimeconfig.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\ref\Reverse-Only-Letters-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\bin\Debug\net5.0\Reverse-Only-Letters-Interview.pdb
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.AssemblyInfo.cs
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\ref\Reverse-Only-Letters-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.pdb
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Reverse-Only-Letters-Interview\obj\Debug\net5.0\Reverse-Only-Letters-Interview.genruntimeconfig.cache

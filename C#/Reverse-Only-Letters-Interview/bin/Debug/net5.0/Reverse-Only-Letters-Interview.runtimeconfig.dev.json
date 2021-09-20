@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eddre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eddre\\.nuget\\packages"
+    ]
+  }
+}
