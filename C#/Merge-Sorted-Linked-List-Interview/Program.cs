@@ -19,34 +19,41 @@ namespace Merge_Sorted_Linked_List_Interview
 
         public static ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
-            //Blank first node so return the linked list from the second position (index 1)
-            ListNode returnValue = new ListNode();
-            ListNode previousValue = returnValue;
-
-            while (l1 != null || l2 != null)
+            try
             {
-                if (l1 == null)
+                ListNode primary = l2.val < l1.val ? l2 : l1;
+                ListNode secondary = primary == l1 ? l2 : l1;
+                ListNode firstNode = primary;
+            }
+            catch
+            {
+                //One or both of the link list is empty 
+                if (l1 == null && l2 == null) { return new ListNode(); }
+                else if (l1 == null) { return l2; }
+                else { return l1; }
+            }
+
+            while (secondary != null)
+            {
+                if (primary.next != null && primary.next.val < secondary.val)
                 {
-                    //Add l2
-                    previousValue.next = 
-                }
-                else if (l2 == null)
-                {
-                    //Add l1
+                    //Primary next
+                    primary = primary.next;
                 }
                 else
                 {
-                    //Comparison
-                    if (l1.val < l2.val)
-                    {
-                        //Add l1
-                    }
-                    else
-                    {
-                        //Add l2
-                    }
+                    //Secondary next
+                    ListNode tempNext = primary.next;
+                    ListNode secondaryNext = secondary.next;
+                    primary.next = secondary;
+                    primary.next.next = tempNext;
+                    secondary = secondaryNext;
+
+                    primary = primary.next;
                 }
             }
+
+            return firstNode;
         }
     }
 }

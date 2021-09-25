@@ -1,0 +1,16 @@
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.exe
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.deps.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.runtimeconfig.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.runtimeconfig.dev.json
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\ref\Longest-Substring-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\bin\Debug\net5.0\Longest-Substring-Interview.pdb
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.csproj.AssemblyReference.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.AssemblyInfoInputs.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.AssemblyInfo.cs
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\ref\Longest-Substring-Interview.dll
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.pdb
+C:\Users\eddre\Documents\Laptop-Network-Onedrive\OneDrive\Programming-Challenges\C#\Longest-Substring-Interview\obj\Debug\net5.0\Longest-Substring-Interview.genruntimeconfig.cache
